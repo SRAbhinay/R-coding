@@ -28,7 +28,7 @@ l
 median=l+(((N/2)-c)/f)*h                 
 median 
 
-m=which(frequency==max(frequency)) #serial number of the median class
+m=which(frequency==max(frequency))
 m 
 fm=frequency[m]     # frequency of the modal class
 fm
