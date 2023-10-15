@@ -30,7 +30,7 @@ median
 
 m=which(frequency==max(frequency))
 m 
-fm=frequency[m]     # frequency of the modal class
+fm=frequency[m]  
 fm
 f1=frequency[m-1]  # frequency of the pre modal class
 f2=frequency[m+1] # frequency of the post modal class 
