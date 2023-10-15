@@ -25,7 +25,7 @@ c=cl[ml-1]
 c
 l=mid[ml]-h/2
 l 
-median=l+(((N/2)-c)/f)*h                      #median
+median=l+(((N/2)-c)/f)*h
 median 
 
 #Mode:
