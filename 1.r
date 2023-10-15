@@ -34,7 +34,7 @@ m
 fm=frequency[m]     
 fm
 f1=frequency[m-1]  
-f2=frequency[m+1] # frequency of the post modal class 
+f2=frequency[m+1]  
 f1
 f2
 l=midx[m]-h/2
