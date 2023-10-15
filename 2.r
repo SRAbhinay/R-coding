@@ -19,7 +19,7 @@ ml=min(which(cl>=N/2))
 ml 
 h=5 
 h 
-f=frequency[ml]                   #frequency of the median class
+f=frequency[ml]       
 f 
 c=cl[ml-1]                           # cumulative frequency of the median class 
 c
