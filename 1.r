@@ -33,7 +33,7 @@ m=which(frequency==max(frequency))
 m 
 fm=frequency[m]     
 fm
-f1=frequency[m-1]  # frequency of the pre modal class
+f1=frequency[m-1]  
 f2=frequency[m+1] # frequency of the post modal class 
 f1
 f2
