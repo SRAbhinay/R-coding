@@ -21,7 +21,7 @@ h=5
 h 
 f=frequency[ml]               
 f 
-c=cl[ml-1]                           # cumulative frequency of the median class 
+c=cl[ml-1]                     
 c
 l=mid[ml]-h/2
 l 
