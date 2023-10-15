@@ -6,7 +6,7 @@ fr.distr
 
 mean=(sum(mid*f))/sum(f) 
 mean 
-#Median: 
+
 midx=seq(147.5,182.5,5) 
 frequency=c(4,6,28,58,64,30,5,5) 
 fr.dist=data.frame(midx, frequency) 
