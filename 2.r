@@ -15,7 +15,7 @@ cl=cumsum(frequency)
 cl
 N=sum(frequency)
 N
-ml=min(which(cl>=N/2))        # The serial number of the median class 
+ml=min(which(cl>=N/2))       
 ml 
 h=5 
 h 
