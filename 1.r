@@ -3,7 +3,7 @@ mid
 f=c(4,6,28,58,64,30,5,5) 
 fr.distr=data.frame(mid,f)
 fr.distr    
-#Mean:
+
 mean=(sum(mid*f))/sum(f) 
 mean 
 #Median: 
